@@ -1,0 +1,183 @@
+body{
+    width: 100%;
+    margin: 0;
+    background-color: #fdfbfb;
+    background-color: #fcfcfc;
+    background-image: url("https://www.transparenttextures.com/patterns/clean-textile.png");
+}
+
+/*NavBar*/
+#navbarNav{
+    font-family: 'Special Elite', cursive;
+    font-size: 20px;
+    border-color: rgb(173, 183, 185);
+    border: none;
+    letter-spacing: .2rem;
+    justify-content: center;
+}
+
+.subtitle .phonetic{
+    justify-content: space-around;
+}
+a.nav-link{
+    /* padding: 5px; */
+    margin: 0px, 10px, 0px, 10px;
+}
+
+.nameColor{
+    color: rgb(151, 227, 229);
+}
+
+.display-8{
+color: rgb(151, 227, 229);
+font-size: 60px;
+font-weight: 400;
+padding-top: 0;
+padding:0px
+}
+
+
+div.jumbotron{
+    padding-bottom: 1.5rem;
+    padding-top: 1.5rem;
+    margin-top: 3%;
+    background-color: rgb(180, 178, 176);
+    opacity: 75%;
+}
+
+/*About*/
+div.post-heading.text-center{
+    max-height: 100px;
+}
+
+hr.w-50.mx-auto.pb-5{
+    max-height: 1px;
+}
+#about-title{
+    color: rgb(151, 227, 229);
+    margin-top: 20px;
+    font-size: 60px;
+    font-weight: 350;
+}
+
+#portfolio-h3{
+    font-size: 60px;
+    font-weight: 375;
+    color: rgb(151, 227, 229);
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+
+#portfolio-pic{
+    height: 30rem;
+    margin-right: 3rem;
+    display: flex;
+    border-radius: 80px;
+    padding: 1rem;
+}
+
+p {
+    font-size: x-large; 
+    color: rgb(78, 78, 78);
+}
+
+/*Resources*/
+div.card-body{
+    max-height: 100px;
+}
+a{
+   text-align: center;
+}
+
+h5.card-title{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    margin-left: 50px;
+}
+div.card{
+    max-height: 325px;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+.card-title{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}    
+
+.card-text{
+    font-size: large !important;
+}
+.wrapper{
+    margin-top: 10px;
+    margin-left: 3rem;
+    display: flex; 
+    display: flex; 
+    grid-row: auto; 
+    margin-bottom: 50px;
+} 
+
+ .card{
+     margin-left: 0px;
+     border-radius: 10%;
+     height: 400px;
+     background-color: rgb(219, 217, 214);
+     border: none;
+ }
+ 
+ .card-img-top{
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+    height: 184px;
+ }
+
+div.row{
+    margin-left: 2.5em;
+    /* padding: 20em; */
+}
+
+.my-4{
+    /* font: Tahoma; */
+    /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
+    font-size: 200px;
+}
+
+.intro-content-inner{
+    color: rgb(104, 104, 110);
+}
+
+/*Contact me*/
+#contact{
+    background: linear-gradient(to right, #aedaa7, #56d3ba);
+    
+    border-radius: 25px;
+    border: none;
+    color: #fff;
+    padding: 3rem;
+    opacity: 40%;
+}
+
+#contact.container.form{
+    margin-left: 7em;
+}
+/*Footer*/
+#external-link{
+    padding: 3px;
+    padding-top: 1rem;
+    margin-top: 10px;
+}
+
+#footer-section{
+    padding-top: 20px;
+    display: block;
+    margin-top: 50px;
+    box-sizing: unset;
+}
+
+/*About*/
+#about-para {
+    margin-top: 3%;
+    margin-left: 2em;
+    margin-right: 2em;
+    font-size: large;
+}
+
+/* a.btn.btn-primary{
+    margin-top: 30px;
+} */
+
